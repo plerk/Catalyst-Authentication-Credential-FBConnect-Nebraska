@@ -1,9 +1,0 @@
-Catalyst::Exception
-ExtUtils::MakeMaker
-Moose
-MooseX::Types::Common::String
-MooseX::Types::Moose
-Test::More
-WWW::Facebook::API
-feature
-namespace::autoclean

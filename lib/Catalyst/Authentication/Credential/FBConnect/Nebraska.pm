@@ -146,20 +146,26 @@ In controller code,
 
 =head1 AUTHOR
 
-Cosmin Budrica E<lt>cosmin@sinapticode.comE<gt>
+Fork by
 
-Bogdan Lucaciu E<lt>bogdan@sinapticode.comE<gt>
+=over 4
 
-With contributions from:
+=item Graham Ollis E<lt>plicease@cpan.orgE<gt>
 
-  Tomas Doran E<lt>bobtfish@bobtfish.netE</gt>
+=back
 
+Original by
 
+=over 4
 
-=head1 COPYRIGHT
+=item Cosmin Budrica E<lt>cosmin@sinapticode.comE<gt>
 
-Copyright (c) 2009 Sinapticode. All rights reserved
+=item Bogdan Lucaciu E<lt>bogdan@sinapticode.comE<gt>
 
-This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+=item With contributions from:
+
+Tomas Doran E<lt>bobtfish@bobtfish.netE<gt>
+
+=back
 
 =cut

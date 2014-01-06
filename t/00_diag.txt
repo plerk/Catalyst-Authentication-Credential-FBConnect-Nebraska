@@ -1,5 +1,5 @@
 Catalyst::Exception
-ExtUtils::MakeMaker
+Module::Build
 Moose
 MooseX::Types::Common::String
 MooseX::Types::Moose

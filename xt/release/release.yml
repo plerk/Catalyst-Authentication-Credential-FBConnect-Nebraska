@@ -11,6 +11,7 @@ pod_spelling_system:
     - Sinapticode
     - conf
     - myapp
+    - Doran
 
 pod_coverage:
   # format is "Class#method" or "Class", regex allowed

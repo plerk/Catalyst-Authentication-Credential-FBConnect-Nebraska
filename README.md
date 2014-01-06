@@ -55,19 +55,17 @@ Facebook credential for Catalyst::Plugin::Authentication framework.
 
 # AUTHOR
 
-Cosmin Budrica <cosmin@sinapticode.com>
+Fork by
 
-Bogdan Lucaciu <bogdan@sinapticode.com>
+- Graham Ollis <plicease@cpan.org>
 
-With contributions from:
+Original by
 
-    Tomas Doran E<lt>bobtfish@bobtfish.netE</gt>
+- Cosmin Budrica <cosmin@sinapticode.com>
+- Bogdan Lucaciu <bogdan@sinapticode.com>
+- With contributions from:
 
-# COPYRIGHT
-
-Copyright (c) 2009 Sinapticode. All rights reserved
-
-This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+    Tomas Doran <bobtfish@bobtfish.net>
 
 # AUTHOR
 
@@ -75,7 +73,7 @@ Graham Ollis <plicease@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2014 by Graham Ollis.
+This software is copyright (c) 2009 by Sinapticode.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
