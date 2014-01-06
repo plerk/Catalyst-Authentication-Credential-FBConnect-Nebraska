@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+  - fix version number
 
 0.03      2014-01-06 09:03:24 -0500
   - migrated to Dist::Zilla

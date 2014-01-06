@@ -1,5 +1,7 @@
 # Catalyst::Authentication::Credential::FBConnect::Nebraska
 
+Facebook credential for Catalyst::Plugin::Authentication framework.
+
 # SYNOPSIS
 
 In MyApp.pm
@@ -37,15 +39,9 @@ In controller code,
          }
     }
 
-# NAME
+# DESCRIPTION
 
-Catalyst::Authentication::Credential::FBConnect::Nebraska
-
-Facebook credential for Catalyst::Plugin::Authentication framework.
-
-# VERSION
-
-0.01
+This is a fork of the original for my specific application, The Nebraska Project.
 
 # USER METHODS
 

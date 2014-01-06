@@ -8,8 +8,8 @@ use WWW::Facebook::API;
 use Catalyst::Exception ();
 use namespace::autoclean;
 
-our $VERSION = '0.02';
-$VERSION = eval $VERSION;
+# ABSTRACT: Facebook credential for Catalyst::Plugin::Authentication framework.
+# VERSION
 
 has debug => ( is => 'ro', isa => Bool, );
 has api_key => ( is => 'ro', isa => NonEmptySimpleStr, required => 1 );
@@ -83,13 +83,9 @@ sub authenticate {
 
 __END__
 
-=head1 NAME
+=head1 DESCRIPTION
 
-Catalyst::Authentication::Credential::FBConnect::Nebraska - Facebook credential for Catalyst::Plugin::Authentication framework.
-
-=head1 VERSION
-
-0.01
+This is a fork of the original for my specific application, The Nebraska Project.
 
 =head1 SYNOPSIS
 
