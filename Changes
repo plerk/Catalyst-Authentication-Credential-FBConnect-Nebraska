@@ -1,5 +1,11 @@
-Revision history for Catalyst::Authentication::Credential::FBConnect
+Revision history for {{$dist->name}}
 
+{{$NEXT}}
+  - migrated to Dist::Zilla
 
-0.01 Tue July 08 17:17 2009
+0.02 Thu Sep 23 17:50:19 2010
+  - forked from Catalyst::Authentication::Credential::FBConnect as 
+    Catalyst::Authentication::Credential::FBConnect
+
+0.01 Tue Jul 08 17:17:00 2009
 	original version

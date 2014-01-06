@@ -1,0 +1,28 @@
+---
+abstract: 'Facebook credential for Catalyst::Plugin::Authentication framework.'
+author:
+  - 'Graham Ollis <plicease@cpan.org>'
+build_requires:
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300038, CPAN::Meta::Converter version 2.132510'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Catalyst-Authentication-Credential-FBConnect-Nebraska
+requires:
+  Catalyst::Exception: 0
+  Moose: 0
+  MooseX::Types::Common::String: 0
+  MooseX::Types::Moose: 0
+  WWW::Facebook::API: 0
+  namespace::autoclean: 0
+  perl: 5.006
+resources:
+  bugtracker: https://github.com/plicease/catalyst-authentication-credential-fbconnect-nebraska/issues
+  homepage: http://perl.wdlabs.com/Catalyst-Authentication-Credential-FBConnect-Nebraska/
+  repository: git://github.com/plicease/catalyst-authentication-credential-fbconnect-nebraska.git
+version: 0.03

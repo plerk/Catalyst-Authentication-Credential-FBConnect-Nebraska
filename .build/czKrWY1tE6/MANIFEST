@@ -1,0 +1,11 @@
+Changes
+INSTALL
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Catalyst/Authentication/Credential/FBConnect/Nebraska.pm
+t/00-load.t

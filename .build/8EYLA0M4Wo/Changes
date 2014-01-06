@@ -1,0 +1,11 @@
+Revision history for Catalyst-Authentication-Credential-FBConnect-Nebraska
+
+0.03      2014-01-06 08:51:37 -0500
+  - migrated to Dist::Zilla
+
+0.02 Thu Sep 23 17:50:19 2010 +0000
+  - forked from Catalyst::Authentication::Credential::FBConnect as 
+    Catalyst::Authentication::Credential::FBConnect
+
+0.01 Tue July 08 17:17 2009
+	original version
